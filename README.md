@@ -25,7 +25,7 @@ Renseignement des informations personnelles et objectifs :
 + Front-End : \
 	-> HTML pour la structure des pages (formulaire d’inscription, page profil, etc.) \
 	-> CSS pour le design et la mise en page responsive \
-	-> JavaScript pour l’interactivités et la validation dynamique des formulaires \
+	-> JavaScript pour l’interactivités et la validation dynamique des formulaires
 + Back-End : \
 -> PHP pour traiter les formulaires, gérer les sessions et interagir avec la base de données. \
-->MySQL pour stocker les données des utilisateurs, les objectifs, les programmes, et les données alimentaires. \
+->MySQL pour stocker les données des utilisateurs, les objectifs, les programmes, et les données alimentaires.
