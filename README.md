@@ -5,14 +5,14 @@ Outils innovant qui permet à chaque utilisateur de recevoir un programme de mus
 
 Comment ça fonctionne ?\
 
-Renseignement des informations personnelles et objectifs :\
-- Poids
-- Taille
-- Âge
-- Sexe (F/H/X)
-- Prise de masse / Perte de poids / Maintien / Remise en forme
-- Maison / Salle / Extérieur
-- Matériel / Sans Matériel
+Renseignement des informations personnelles et objectifs :
+	- Poids
+	- Taille
+	- Âge
+	- Sexe (F/H/X)
+	- Prise de masse / Perte de poids / Maintien / Remise en forme
+	- Maison / Salle / Extérieur
+	- Matériel / Sans Matériel
 
 => Ces données permettent d’établir  un profil précis et de calculer des indicateurs comme l’IMC (Indice de Masse Corporelle) ou les besoins énergétiques journaliers.
 
