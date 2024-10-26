@@ -3,7 +3,7 @@
 ## 1. Contexte
 Outil innovant qui permet à chaque utilisateur de recevoir un programme de musculation / fitness et des conseils nutritionnels adaptés à ses objectifs personnels.
 
-Comment ça fonctionne ?
+### Comment ça fonctionne ?
 
 Renseignement des informations personnelles et objectifs :
 - Poids
